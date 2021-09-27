@@ -67,7 +67,7 @@ Run `npm test` to execute the unit tests via [Karma](https://karma-runner.github
 
 To get more help on the Discord.js go check out the [Discord.js README](https://github.com/discordjs/discord.js#readme).
 
-## Our SUpport Server
+## Visit My Website
 [Website](https://www.devmrvenom.ml/)
 ## Donate us via Patreons
 [Patreons](https://www.patreon.com/DevVenom)
