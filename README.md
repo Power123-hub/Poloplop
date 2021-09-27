@@ -71,3 +71,4 @@ To get more help on the Discord.js go check out the [Discord.js README](https://
 [Website](https://www.devmrvenom.ml/)
 ## Donate us via Patreons
 [Patreons](https://www.patreon.com/DevVenom)
+
